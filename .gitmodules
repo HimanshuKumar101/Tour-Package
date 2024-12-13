@@ -1,0 +1,3 @@
+[submodule "tourPackage"]
+    path = tourPackage
+    url = https://github.com/example/tourPackage.git
